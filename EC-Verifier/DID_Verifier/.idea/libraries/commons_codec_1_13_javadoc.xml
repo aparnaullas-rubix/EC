@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.13-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/JARS/commons-codec-1.13-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/commons-codec-1.13.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-cid-v1.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-ipfs-api-v1.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-json.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-multiaddr-v1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-multibase-v1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-multihash-v1.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/javax.json-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/jfoenix-9.0.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/json-simple-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/json-simple-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/json-simple-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/org-apache-commons-codec.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/TrayTester.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/JARS/commons-codec-1.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/JARS/commons-codec-1.13-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/commons-codec-1.13-test-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/JARS/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

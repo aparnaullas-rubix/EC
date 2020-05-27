@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DID_Verifier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DID_Verifier_jar</output-path>
+    <root id="archive" name="DID_Verifier.jar">
+      <element id="module-output" name="DID_Verifier" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/commons-codec-1.13-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/commons-codec-1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-cid-v1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-ipfs-api-v1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-multiaddr-v1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-multibase-v1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/java-multihash-v1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/javax.json-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/jfoenix-9.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/json-simple-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/org-apache-commons-codec.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARS/TrayTester.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
